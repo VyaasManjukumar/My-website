@@ -1,0 +1,14 @@
+body{
+    background-image:url(Bg1.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color: aqua;
+    color:black;
+}
+
+p{
+    color: red;
+}
